@@ -12,7 +12,7 @@ function App() {
     
     <div className="div_1">
         <Router>
-          <Link to=""> HOME</Link>
+          <Link to=" "> HOME</Link>
           <Link to="/about">ABOUT</Link>
           
           <Routes>
